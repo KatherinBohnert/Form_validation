@@ -85,13 +85,12 @@ body {
   margin: 10px 0;
   font-weight: bold;
 }
-/* Estilo adicional para el mensaje de error compacto */
 .compact-error {
   background: transparent;
   color: #d14539;
   font-size: 12px;
-  margin: 0; /* Elimina el margen */
-  padding: 0; /* Elimina el padding */
-  display: inline; /* Muestra el mensaje en línea, sin ocupar espacio adicional */
-  line-height: 1; /* Espaciado mínimo entre líneas */
+  margin: 0;
+  padding: 0; 
+  display: inline;
+  line-height: 1; 
 }
